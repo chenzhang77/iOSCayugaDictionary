@@ -1,0 +1,17 @@
+//
+//  CONSTANT.pch
+//  CayugaDictionary
+//
+//  Created by cz5670 on 2017-09-27.
+//  Copyright © 2017 winemocol. All rights reserved.
+//
+
+#ifndef CONSTANT_pch
+#define CONSTANT_pch
+
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+#define kScreenHeight [UIScreen mainScreen].bounds.size.height
+#define kTabbarHeight 49
+#define kNavHeight 64
+
+#endif /* CONSTANT_pch */
